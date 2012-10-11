@@ -1,4 +1,5 @@
-function alert1()
+function alertNew()
 {
+alert("hi");
 
 }
